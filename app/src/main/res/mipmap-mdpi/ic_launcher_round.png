@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">OptiGhost</string>
+
+    <string-array name="roles">
+        <item>AttendanceKeeper</item>
+        <item>Admin</item>
+        <item>Client</item>
+    </string-array>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--ACTIVITY ADD SYSTEM USERS START-->
+    <string name="admin_add_system_users_name_hint">Name</string>
+    <string name="admin_add_system_users_surname_hint">Surname</string>
+    <string name="admin_add_system_users_username_hint">Username</string>
+    <string name="admin_add_system_users_idnumber_hint">ID Number</string>
+    <string name="admin_add_system_users_password_hint">Password</string>
+    <string name="admin_add_system_users_btn_add_users">Add System User</string>
+    <!--ACTIVITY ADD SYSTEM USERS END-->
+
+
+    <!--ACTIVITY ADD TRACKED USER START-->
+    <string name="admin_add_tracked_user_name_hint">Name</string>
+    <string name="admin_add_tracked_user_surname_hint">Surname</string>
+    <string name="admin_add_tracked_user_idnumber_hint">ID Number</string>
+    <string name="admin_add_tracked_user_btn_add">Add Subject</string>
+    <!--ACTIVITY ADD TRACKED USER END-->
+
+    <!--ACTIVITY ADMIN DASHBOARD START-->
+    <string name="admin_dashboard_txt_add_system_users">Add System User</string>
+    <string name="admin_dashboard_txt_add_system_users2">System User Add</string>
+    <string name="admin_dashboard_txt_add_tracked_users2">Subject User Add</string>
+    <string name="admin_dashboard_txt_list_system_users">List System Users</string>
+    <string name="admin_dashboard_txt_list_system_users2">System Users List</string>
+    <string name="admin_dashboard_txt_list_tracked_users">List Tracked Users</string>
+    <string name="admin_dashboard_txt_list_tracked_users2">Tracked Users List</string>
+
+    <!--ACTIVITY ADMIN DASHBOARD END-->
+
+    <!--ACTIVITY BUILDING CLOCK IN-OUT SCAN ID START-->
+    <string name="building_clock_inout_scanid_btn_scan">Verify Subject</string>
+    <string name="building_clock_inout_scanid_txt_comment">Verify using left index finger</string>
+    <string name="building_clock_inout_scanid_btn_proceed">Proceed</string>
+    <!--ACTIVITY BUILDING CLOCK IN-OUT SCAN ID END-->
+
+    <!-- ACTIVITY BUILDING TIME AND ATTENDANCE START -->
+    <string name="building_time_and_attendance_txt_header">Clock In or Clock Out</string>
+    <string name="building_time_and_attendance_txt_clock_in">Clock In</string>
+    <string name="building_time_and_attendance_txt_clock_out">Clock Out</string>
+    <!--ACTIVITY BUILDING TIME AND ATTENDANCE END-->
+
+    <!--ACTIVITY CAPTURE FINGERPRINTS START-->
+    <string name="capture_fingerprints_txt_header">Press start to capture fingerprints</string>
+    <string name="capture_fingerprints_btn_capture">Capture Fingerprint</string>
+    <string name="capture_fingerprints_btn_start_capture">Start Capturing</string>
+    <!--ACTIVITY CAPTURE FINGERPRINTS END-->
+
+    <!--ACTIVITY CAPTURE PHOTOGRAPH START-->
+    <string name="capture_photograph_btn_cancel">Cancel</string>
+    <string name="capture_photograph_btn_capture">Capture</string>
+    <string name="capture_photograph_btn_proceed">Proceed</string>
+    <!--ACTIVITY CA
